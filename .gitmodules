@@ -1,0 +1,3 @@
+[submodule "git-module-example-submodule"]
+	path = git-module-example-submodule
+	url = https://github.com/step4j/git-module-example-submodule.git
